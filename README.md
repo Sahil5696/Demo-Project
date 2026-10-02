@@ -1,2 +1,2 @@
 # Demo-Project
-1st Demo Project
+First Git Repository
